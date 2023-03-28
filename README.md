@@ -1,0 +1,2 @@
+# RecNetSetAvatar
+A simple script.
